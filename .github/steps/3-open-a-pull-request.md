@@ -33,11 +33,6 @@ To create a pull request automatically, click **Compare & pull request** button,
 
 7. Click **Create pull request**.
 
-8. Now that you've started a place to collaborate, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
-
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
 
 If you don't get feedback, here are some things to check:
 - Make sure your pull request title is correct.
