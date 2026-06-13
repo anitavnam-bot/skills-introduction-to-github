@@ -22,11 +22,6 @@ You successfully created a pull request. Now it's time to merge it!
 
    ![screenshot showing delete branch button](https://github.com/anitavnam-bot/skills-introduction-to-github/blob/main/.github/images/delete-branch-button.png?raw=true)
 
-4. Now that your work is merged, Mona will confirm and share some final review content. Nice work! 🎉
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
 If you don't get feedback, here are some things to check:
 - Make sure you completed the previous lessons. If they haven't passed, the merge button will be gray.
 
