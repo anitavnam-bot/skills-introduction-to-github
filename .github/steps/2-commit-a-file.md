@@ -39,11 +39,8 @@ The following steps will guide you through the process of committing a change on
 
 7. In this lesson, we'll ignore the other fields for now and click **Commit changes**.
 
-8. Now that you've changed a file, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
-
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
 
 If you don't get feedback, here are some things to check:
 - Make sure you are on the `my-first-branch` branch.
